@@ -2,6 +2,7 @@ buildscript {
     ext{
         roomVersion = '2.4.2'
         retrofit2_version = '2.9.0'
+        compose_material_version = '1.2.1'
     }
 }
 // Top-level build file where you can add configuration options common to all sub-projects/modules.

@@ -3,8 +3,8 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
       <module name="NewModularXML.app" target="11" />
-      <module name="NewModularXML.core.di" target="11" />
       <module name="NewModularXML.core.model" target="11" />
+      <module name="NewModularXML.core.utils" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

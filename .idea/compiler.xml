@@ -5,6 +5,7 @@
       <module name="NewModularXML.app" target="11" />
       <module name="NewModularXML.core.model" target="11" />
       <module name="NewModularXML.core.utils" target="11" />
+      <module name="NewModularXML.database" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
